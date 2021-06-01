@@ -3,34 +3,37 @@
     "name": "Srikar Kusumanchi",
     "occupation": "React Native Freelancer",
     "description": "Student by day, Freelancer by night",
-    "image": "profilepic.jpg",
-    "bio": "A self-taught programmer and I have knowledge in several languages including the following: Python, C, SQL, Shell, JavaScript, HTML, and CSS. I am currently a mobile developer that freelances. I like to create programs that are innovative, creating applications that solve real-world problems in this era of digital transformation. I have a deep passion for Artificial Intelligence, Machine Learning, and Robotics. ",
+    "image": "profilepic.png",
+    "bio": "A self-taught programmer with knowledge in many languages/frameworks such as Python, React Native, and JavaScript. Currently, I am a React Native mobile developer looking for opportunities. I would like to create applications that solve real-world problems in this era of digital transformation. I have a passion for Artificial Intelligence, Machine Learning, and Web/Mobile development. Additionally, I have created many clones of big tech sites using React such as an Amazon Clone, Netflix Clone, Discord Clone, and more.",
     "contactmessage": "Love my work? Get in touch with me!",
     "email": "srikar.sgk@gmail.com",
-    "phone": "+1 (123) 456-7899",
+    "phone": "+1 (123) 456-7890",
     "address": {
       "street": "123 Dev Lane",
       "city": "Nashville",
       "state": "Devpolis",
-      "zip": "W3B D3V"
+      "zip": "W3BD3V"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "/Srikar_Resume.pdf",
     "social": [
       {
-        "name": "linkedin",
+        "name": "LinkedIn",
         "url": "https://www.linkedin.com/in/srikar-kusumanchi",
-        "className": "fa fa-linkedin"
+        "className": "fab fa-linkedin"
       },
       {
-        "name": "instagram",
+        "name": "Instagram",
         "url": "https://www.instagram.com/srikar.programs/",
-        "className": "fa fa-instagram"
+        "className": "fab fa-instagram"
       },
       {
-        "name": "github",
+        "name": "Medium",
+        "url": "https://srikark.medium.com/",
+        "className": "fab fa-medium"
+      },
+      {
+        "name": "GitHub",
         "url": "https://github.com/srikark-17",
-        "className": "fa fa-github"
+        "className": "fab fa-github"
       }
     ]
   },
@@ -51,6 +54,12 @@
         "description": "Edited and revised 30 hours worth of content to help aspiring developers learn quicker. Co-developing a website that will be used by thousands of students to sign up and learn Computer Science. Led a team of high school and college interns making the team 30 percent more productive."
       },
       {
+        "company": "Clever Programmer",
+        "title": "Success Coach",
+        "years": "Oct 2020 - Mar 2021",
+        "description": "Delegated tasks to ensure completion of projects on time. Guided peers in their journey of learning JavaScript. Develop innovative ways to aid in learning and add value to the course. Led group coaching calls where people learned React Native."
+      },
+      {
         "company": "YMCA of Middle Tennessee",
         "title": "MUN/YIG Captain",
         "years": "May 2020 - Present",
@@ -61,28 +70,6 @@
         "title": "Debate Captain",
         "years": "Aug 2020 - Present",
         "description": "Researched and argued on a variety of international/domestic issues and captain of a 30 member team."
-      }
-    ],
-    "skills": [
-      {
-        "name": "ReactJs",
-        "level": "100%"
-      },
-      {
-        "name": "Python",
-        "level": "85%"
-      },
-      {
-        "name": "Git",
-        "level": "70%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "99%"
-      },
-      {
-        "name": "Web Development",
-        "level": "95%"
       }
     ]
   },
