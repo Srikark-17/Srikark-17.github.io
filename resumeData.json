@@ -2,7 +2,7 @@
   "main": {
     "name": "Srikar Kusumanchi",
     "occupation": "React Native Freelancer",
-    "description": "Student by day, Freelancer by night",
+    "description": "10x Hackathon Winner and Recognized by Google Cloud",
     "image": "profilepic.png",
     "bio": "A self-taught programmer with knowledge in many languages/frameworks such as Python, React Native, and JavaScript. Currently, I am a React Native mobile developer looking for opportunities. I would like to create applications that solve real-world problems in this era of digital transformation. I have a passion for Artificial Intelligence, Machine Learning, and Web/Mobile development. Additionally, I have created many clones of big tech sites using React such as an Amazon Clone, Netflix Clone, Discord Clone, and more.",
     "contactmessage": "Love my work? Get in touch with me!",
@@ -100,10 +100,6 @@
       {
         "text": "Srikar has been one of the best freelancers I have ever had, his depth of knowledge in React Native is immense... I would definitely recommend you hire him for your next mobile app",
         "user": "Mark Zuckerberg"
-      },
-      {
-        "text": "Learning with Srikar has been AWESOME, he makes learning React Native so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Elon Musk"
       }
     ]
   }
