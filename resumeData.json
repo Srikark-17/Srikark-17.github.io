@@ -4,7 +4,7 @@
     "occupation": "React Native Freelancer",
     "description": "10x Hackathon Winner and Recognized by Google Cloud",
     "image": "profilepic.png",
-    "bio": "A self-taught programmer with knowledge in many languages/frameworks such as Python, React Native, and JavaScript. Currently, I am a React Native mobile developer looking for opportunities. I would like to create applications that solve real-world problems in this era of digital transformation. I have a passion for Artificial Intelligence, Machine Learning, and Web/Mobile development. Additionally, I have created many clones of big tech sites using React such as an Amazon Clone, Netflix Clone, Discord Clone, and more.",
+    "bio": "A self-taught programmer with knowledge in many languages/frameworks such as Python, React Native, and JavaScript. Freelanced for two years creating web and mobile apps that have the common purpose of helping the public. Created applications that solve real-world problems in this era of digital transformation, such as widlifire awareness app and homework helper app. I have a deep passion for Artificial Intelligence, Machine Learning, and Web/Mobile development. Additionally, I have created many clones of big tech sites using React such as a Facebook Clone, Netflix Clone, Discord Clone, and more. ",
     "contactmessage": "Love my work? Get in touch with me!",
     "email": "srikar.sgk@gmail.com",
     "phone": "+1 (123) 456-7890",
@@ -12,7 +12,7 @@
       "street": "123 Dev Lane",
       "city": "Nashville",
       "state": "Devpolis",
-      "zip": "W3BD3V"
+      "zip": "W3B D3V"
     },
     "social": [
       {
@@ -40,10 +40,10 @@
   "resume": {
     "education": [
       {
-        "school": "Woodland Middle School",
+        "school": "Ravenwood High School",
         "degree": "Education",
-        "graduated": "May 2021",
-        "description": "Captain of the Debate and MUN/YIG team. Top academic scholar of my class in 7th grade and top 10% academic scholar in 6th grade."
+        "graduated": "Aug 2021 - May 2025",
+        "description": "Obtained Honor's Roll in 9th Grade. Participated in Debate, DECA, Model UN/YIG, Science Bowl, and Raspberry Pi Club."
       }
     ],
     "work": [
@@ -76,28 +76,6 @@
         "title": "Debate Captain",
         "years": "Aug 2020 - May 2021",
         "description": "Researched and argued on a variety of international/domestic issues and captain of a 30 member team."
-      }
-    ]
-  },
-  "portfolio": {
-    "projects": [
-      {
-        "title": "Discord Clone (React JS)",
-        "category": "",
-        "image": "Discord-Clone.png",
-        "url": "https://discord-84a7d.web.app/"
-      },
-      {
-        "title": "Gmail Clone (React JS)",
-        "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
-      },
-      {
-        "title": "LinkedIn Clone (React JS)",
-        "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
       }
     ]
   },
