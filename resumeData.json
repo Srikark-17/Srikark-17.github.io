@@ -48,6 +48,12 @@
     ],
     "work": [
       {
+        "company": "Aspiration Marketing",
+        "title": "Web Developer Intern",
+        "years": "Jun 2021 - Aug 2021",
+        "description": "Helped build a demo customer portal which facilitated faster development of future projects. Cloned custom modules I have created from customer portals for reusability. Assisted with one-off requests as needed."
+      },
+      {
         "company": "Def Hacks",
         "title": "Lead SWE Intern",
         "years": "Sep 2020 - Jan 2021",
