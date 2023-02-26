@@ -48,6 +48,12 @@
     ],
     "work": [
       {
+        "company": "Vytal",
+        "title": "Lead Application Developer",
+        "years": "Mar 2022 - Present",
+        "description": "Using the power of deep learning to advance telemedicine, allowing for the early diagnosis of life-threatening diseases and comprehensive assessments of health with just a smartphone. Communicating with the machine learning and software development teams in the creation of CardiOS. Assisted in the development of NeurOS, a mobile app that helps diagnose patients of neuro disorders (Alzheimer's Disease, Parkinson's, etc.) by analyzing eye saccades."
+      },
+      {
         "company": "Aspiration Marketing",
         "title": "Web Developer Intern",
         "years": "Jun 2021 - Aug 2021",
@@ -64,18 +70,6 @@
         "title": "Success Coach",
         "years": "Oct 2020 - Mar 2021",
         "description": "Delegated tasks to ensure completion of projects on time. Guided peers in their journey of learning JavaScript. Develop innovative ways to aid in learning and add value to the course. Led group coaching calls where people learned React Native."
-      },
-      {
-        "company": "YMCA of Middle Tennessee",
-        "title": "MUN/YIG Captain",
-        "years": "May 2020 - May 2021",
-        "description": "Led and mentored a 60+ member team on UN-related problems. Mentored students through creating slideshows and answering their questions when needed. Revised and edited people's resolution, speech, and summation."
-      },
-      {
-        "company": "National Speech & Debate Association",
-        "title": "Debate Captain",
-        "years": "Aug 2020 - May 2021",
-        "description": "Researched and argued on a variety of international/domestic issues and captain of a 30 member team."
       }
     ]
   },
