@@ -1,0 +1,104 @@
+{
+  "main": {
+    "name": "Srikar Kusumanchi",
+    "occupation": "Founding Engineer at Vytal",
+    "description": "15x Hackathon Winner, Recognized by Google Cloud and Wolfram Alpha",
+    "image": "profilepic.png",
+    "bio": "A self-taught programmer with knowledge in many languages/frameworks such as Python, React Native, and JavaScript. Freelanced for two years creating web and mobile apps that have the common purpose of helping the public. Created applications that solve real-world problems in this era of digital transformation, such as widlifire awareness app and homework helper app. I have a deep passion for Artificial Intelligence, Machine Learning, and Web/Mobile development. Additionally, I have created many clones of big tech sites using React such as a Facebook Clone, Netflix Clone, Discord Clone, and more. ",
+    "contactmessage": "Love my work? Get in touch with me!",
+    "email": "srikar.sgk@gmail.com",
+    "phone": "+1 (123) 456-7890",
+    "address": {
+      "street": "123 Dev Lane",
+      "city": "Nashville",
+      "state": "Devpolis",
+      "zip": "W3B D3V"
+    },
+    "social": [
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/srikar-kusumanchi",
+        "className": "fab fa-linkedin"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/srikar.programs/",
+        "className": "fab fa-instagram"
+      },
+      {
+        "name": "Devpost",
+        "url": "https://devpost.com/srikar-sgk/",
+        "className": "https://img.icons8.com/androidL/512/FFFFFF/devpost.png",
+        "hoverClassName": "https://img.icons8.com/androidL/512/c2b280/devpost.png"
+      },
+      {
+        "name": "GitHub",
+        "url": "https://github.com/srikark-17",
+        "className": "fab fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Georgia Tech",
+        "degree": "Computer Science",
+        "graduated": "Aug 2025 - May 2028",
+        "gpa": "",
+        "description": ""
+      },
+      {
+        "school": "Ravenwood High School",
+        "degree": "",
+        "graduated": "Aug 2021 - May 2025",
+        "gpa": "Cum. GPA 4.00/4.00",
+        "description": "Clubs/Activities: MakerSpace Club (President), DECA, Science Bowl, Technology Student Association (TSA), Model UN"
+      }
+    ],
+    "work": [
+      {
+        "company": "Vytal",
+        "title": "Lead Application Developer",
+        "years": "Mar 2022 - Present",
+        "description": "Lead the development of Spectra to help diagnose neurological disorders with eye saccades. Generated oculometrics matching clinical standards. Created an API with a 1-2° error for business eye-tracking solutions like adtech, education, gaming, and robotics.",
+        "technologies": [
+          "React",
+          "Python",
+          "React Native",
+          "Firebase",
+          "MongoDB",
+          "AWS",
+          "Kotlin",
+          "Tensorflow"
+        ]
+      },
+      {
+        "company": "Harvard Medical School",
+        "title": "Research Intern",
+        "years": "Aug 2023 - Present",
+        "description": "Surpassed industry standards with a model for fundus image feature extraction, achieving 96 percent accuracy. Developed a fundus image anomaly detection system to optimize image quality and streamline clinical workflows. Co-developed an AI cup-to-disc ratio (CDR) pipeline to mitigate subjectivity in diagnoses.",
+        "technologies": ["Python", "React", "Tensorflow", "SAM2", "ViT"]
+      },
+      {
+        "company": "Broad Institute of MIT and Harvard",
+        "title": "Research Intern",
+        "years": "Jul 2024 - Present",
+        "description": "Created a statistical analysis algorithm with 94.7% accuracy at detecting hallucination-like behavior to devise new antipsychotic treatments. Developed trackers/visualization for behavioral data: 20+ trials/animal with & without Audio/Visual stimulus.",
+        "technologies": [
+          "Python",
+          "DeepLabCut",
+          "NumPy",
+          "Matplotlib",
+          "Pandas"
+        ]
+      },
+      {
+        "company": "TechnologyAdvice",
+        "title": "Software Development Intern",
+        "years": "Jun 2023 - Aug 2024",
+        "description": "Deployed machine learning models for enhanced website monitoring and business analytics. Implemented strategic code improvements to elevate user experience, while building responsive web architecture that ensured seamless cross-device functionality.",
+        "technologies": ["React", "Python", "WordPress", "Sass", "MongoDB"]
+      }
+    ]
+  }
+}
