@@ -21,11 +21,6 @@
         "className": "fab fa-linkedin"
       },
       {
-        "name": "Instagram",
-        "url": "https://www.instagram.com/srikar.programs/",
-        "className": "fab fa-instagram"
-      },
-      {
         "name": "Devpost",
         "url": "https://devpost.com/srikar-sgk/",
         "className": "https://img.icons8.com/androidL/512/FFFFFF/devpost.png",
@@ -43,16 +38,9 @@
       {
         "school": "Georgia Tech",
         "degree": "Computer Science",
-        "graduated": "Aug 2025 - May 2028",
-        "gpa": "",
+        "graduated": "Expected Graduation: May 2027",
+        "gpa": "Cum. GPA: 4.0/4.0",
         "description": ""
-      },
-      {
-        "school": "Ravenwood High School",
-        "degree": "",
-        "graduated": "Aug 2021 - May 2025",
-        "gpa": "Cum. GPA 4.00/4.00",
-        "description": "Clubs/Activities: MakerSpace Club (President), DECA, Science Bowl, Technology Student Association (TSA), Model UN"
       }
     ],
     "work": [
