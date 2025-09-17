@@ -40,7 +40,7 @@
         "degree": "Computer Science",
         "graduated": "Expected Graduation: May 2027",
         "gpa": "4.0/4.0",
-        "description": "Activities/Clubs: AI@GT, Trading @ GT"
+        "description": "Activities/Clubs: Marine Robotics Group, Technology Consulting Group, Engineers Without Borders"
       }
     ],
     "work": [
@@ -60,8 +60,8 @@
       },
       {
         "company": "Vytal",
-        "title": "Lead Application Developer",
-        "years": "Mar 2022 - Present",
+        "title": "Founding Engineer",
+        "years": "Mar 2022 - Dec 2024",
         "description": "Lead the development of Spectra to help diagnose neurological disorders with eye saccades. Generated oculometrics matching clinical standards. Created an API with a 1-2° error for business eye-tracking solutions like adtech, education, gaming, and robotics.",
         "technologies": [
           "React",
