@@ -30,6 +30,12 @@
         "name": "GitHub",
         "url": "https://github.com/srikark-17",
         "className": "fab fa-github"
+      },
+      {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AEk_c1tjit439iSC4bjg7hgRTM2X8ZrDtSZRK5O3__jPZEBPWtvdvHjEZxzj8jqNwu7Lyovl8oSdqiqusf9oVV_I4mzw&user=zHaeWgYAAAAJ",
+        "className": "https://img.icons8.com/?size=100&id=pU44R9xgF3wq&format=png&color=FFFFFF",
+        "hoverClassName": "https://img.icons8.com/?size=100&id=pU44R9xgF3wq&format=png&color=c2b280"
       }
     ]
   },
